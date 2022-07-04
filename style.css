@@ -14,6 +14,14 @@ span{
     color: orange;
 }
 
+#about-me{
+    text-align: justify;
+}
+
+#goal-description{
+    text-align: justify;
+    padding-right: 110px;
+}
 .header-section{
     display: flex;
     margin-bottom: 100px;

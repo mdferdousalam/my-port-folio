@@ -43,18 +43,31 @@ span{
 
 .experience-section{
     display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 
 }
-
+h4{
+    color: orange;
+}
 #experience1{
     border-left: 7px solid orange;
     border-radius: 5px;
+    width: 50%;
+    margin-left: 100px;
+    padding-left: 40px;
+    
+    box-shadow:  ;
     
 }
 
 #experience2{
     border-left: 7px solid blue;
     border-radius: 5px;
+    width: 50%;
+    margin-left: 100px;
+    padding-left: 40px;
 }
 
 footer{

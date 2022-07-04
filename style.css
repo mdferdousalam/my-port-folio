@@ -1,3 +1,30 @@
 body{
-    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
+    }
+h1{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+span{
+    color: orange;
+}
+
+.header-section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: aliceblue;
 }

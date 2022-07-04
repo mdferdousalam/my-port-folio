@@ -35,4 +35,29 @@ span{
 }
 .dream-section{
     display: flex;
+    margin-bottom: 150px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.experience-section{
+    display: flex;
+
+}
+
+#experience1{
+    border-left: 7px solid orange;
+    border-radius: 5px;
+    
+}
+
+#experience2{
+    border-left: 7px solid blue;
+    border-radius: 5px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 200px;
 }
